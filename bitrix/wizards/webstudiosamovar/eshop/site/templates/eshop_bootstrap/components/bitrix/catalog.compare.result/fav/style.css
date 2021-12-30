@@ -1,0 +1,10 @@
+
+
+table.fav { font-size: 16px; }
+table.fav .price{white-space: nowrap;/* font-size: 20px;*/ font-weight: bold; }
+table.fav td{ vertical-align: middle !important; }
+table.fav a{ text-decoration: none !important;  }
+table.fav .opisanie{ margin-top: 10px; font-size: 13px; color: #777777; }
+table.fav .no_sk{ white-space: nowrap; font-size: 13px; color: #777777;}
+/*table.fav th{ text-align: center; }*/
+

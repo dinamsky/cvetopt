@@ -1,0 +1,52 @@
+
+@font-face {
+    font-family: 'normal';
+    src: url('CRC35.eot');
+    src: url('CRC35.eot?#iefix') format('embedded-opentype'),
+         url('CRC35.woff') format('woff'),
+         url('CRC35.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'light';
+    src: url('CR25.eot');
+    src: url('CRC25.eot?#iefix') format('embedded-opentype'),
+         url('CRC25.woff') format('woff'),
+         url('CRC25.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bold';
+    src: url('CR55.eot');
+    src: url('CRC55.eot?#iefix') format('embedded-opentype'),
+         url('CRC55.woff') format('woff'),
+         url('CRC55.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'black';
+    src: url('Circe-Bold.eot');
+    src: url('Circe-Bold.eot?#iefix') format('embedded-opentype'),
+         url('Circe-Bold.woff') format('woff'),
+         url('Circe-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'superblack';
+    src: url('Circe-ExtraBold.eot');
+    src: url('Circe-ExtraBold.eot?#iefix') format('embedded-opentype'),
+         url('Circe-ExtraBold.woff') format('woff'),
+         url('Circe-ExtraBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

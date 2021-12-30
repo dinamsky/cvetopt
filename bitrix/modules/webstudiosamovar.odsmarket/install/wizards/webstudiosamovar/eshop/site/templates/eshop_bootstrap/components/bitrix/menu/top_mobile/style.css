@@ -1,0 +1,7 @@
+
+.top_menu_mobile {background: rgba(0,0,0, .7) !important; margin: 0; padding: 10px 0;}
+
+.top_menu_mobile a{ color: white; border-top: 1px red !important;}
+.top_menu_mobile li{ color: white;  padding: 5px 10px; text-align: left;}
+
+.top_menu_mobile ul { margin:0; margin: 20px 0 !important; }

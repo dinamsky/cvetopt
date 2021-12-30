@@ -1,0 +1,33 @@
+
+
+/* Start:/bitrix/templates/eshop_bootstrap_/components/bitrix/news/content/bitrix/news.detail/.default/style.css?1638297703580*/
+.news-detail .proc_skidki {
+	background: red;
+	width: 45px;
+	height: 45px;
+	display: inline-block;
+	/*float: right;*/
+	margin: -8px;
+	text-align: center;
+	border-radius: 35px;
+	padding-top: 10px;
+	position: absolute;
+	top: 20px;
+	right: 30px;
+}
+
+.news-detail .proc_skidki div{
+	color: white; 
+	-moz-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    margin-left: -5px;
+    font-family: "SegoeUIBold";
+	
+}
+
+.news-detail img { margin: 0 15px 15px 0; float: left;}
+/* End */
+/* /bitrix/templates/eshop_bootstrap_/components/bitrix/news/content/bitrix/news.detail/.default/style.css?1638297703580 */

@@ -1,0 +1,1 @@
+<img width="317" src="<?=SITE_DIR?>images/index_akciya.png" height="177"><br>

@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/eshop_bootstrap_/components/bitrix/system.auth.registration/flat/style.css" => "1638297703119",]; ?>

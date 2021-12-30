@@ -1,0 +1,104 @@
+
+
+.left_menu { margin: 20px 0 25px 0;}
+
+
+.left_menu .nav>li>a {
+    position: relative;
+    display: inline-block;
+    padding: 8px 0;
+    color: rgba(0, 0, 0, 1);
+    margin-right: 40px;
+    font-family: 'bold';
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+
+.left_menu .nav>li { border-bottom: 1px solid rgba(0,0,0, .1);}
+.left_menu .nav>li:last-child { border-bottom: none;}
+
+
+.left_menu li.dropdown.open {
+    background:none;
+}
+
+.left_menu .nav>li>a.dropdown-toggle{
+    display: inline-block !important;
+    position: absolute;
+    right: 0;
+    margin: 2px 0 3px 0;
+    padding: 3px 10px !important;
+    font-size: 16px;
+
+}
+.left_menu .nav>li>a.dropdown-toggle:hover, .left_menu .nav>li>a.dropdown-toggle:focus, .left_menu .nav>li>a.dropdown-toggle:active{
+
+    background: #A5A5A5 !important;
+
+}
+
+
+.left_menu .nav-pills>li>a{
+    color: rgba(0,0,0, .8);
+	/*background: none !important;    */
+}
+.left_menu .nav-pills>li>a:hover, .left_menu .nav-pills>li>a:focus {
+    color: rgba(0,0,0, .5);
+	background: none !important;    
+}
+
+
+.left_menu .nav-pills>li.active>a, .left_menu .nav-pills>li.active>a:hover, .left_menu .nav-pills>li.active>a:focus {
+    color: rgba(0,0,0, .5);
+	/*background: none !important;*/
+	/*color: black;*/
+}
+
+.fa_submenu:hover {background: rgba( 255, 255, 255, .08);}
+
+.left_menu .dropdown-menu {
+    left: 260px;
+    top: 0;
+    background: white; !important;
+    border: none !important;
+    font-size: 14px;
+    text-transform: none;
+    min-width: 250px;
+}
+
+.left_menu a.dropdown-menu {
+    position: absolute;
+    /*top: 100%;*/
+    right: 0;
+    top: 0;
+    width: 280px;
+    z-index: 1000;
+    display: none;
+    float: left;
+    /*min-width: 160px;*/
+    padding: 5px 0;
+    margin: 0 0 0 -270px;
+    list-style: none;
+    font-size: 15px;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.25);
+    /*border: 1px solid transparent;*/
+    border-radius: 0;
+    -webkit-box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.175);
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+.left_menu .dropdown-menu>.active>a, .left_menu .dropdown-menu>.active>a:hover, .left_menu .dropdown-menu>.active>a:focus {
+    color: rgba(255, 255,255, .6);
+    text-decoration: none;
+    outline: 0;
+    background: none !important;
+}
+
+.left_menu .dropdown-menu li a:hover {
+    color: black;
+    background: rgba(255, 255,255, .5);
+}

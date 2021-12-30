@@ -1,0 +1,37 @@
+
+	/*	Плитки  */
+
+
+.plitki_index {padding-right: 43px; margin-left: -2px;} /* убрать для малых разрешений*/
+
+.pl_1, .pl_2, .pl_3, .pl_4, .pl_5{ height: 365px; margin: 1px;  position: relative; overflow: hidden;} 
+/*.pl_1 {height: 446px; margin: 1px;  opacity: 0.85; position: relative; overflow: hidden;}*/
+/*.pl_1 div{height: 446px;margin: 1px;}*/
+
+.plitki_prod_index a  { color: black; }
+
+.plitki_prod_index .text_one{
+	text-align: center;
+	/*font-size: 13px;*/
+}
+.plitki_prod_index .text_one .name { font-size: 18px; font-family: 'black'; margin: 15px 10px 5px; }
+
+.plitki_prod_index .price{
+	/*border-top: 1px dotted #CCC;*/
+	display: inline-block;
+
+	text-transform: none;
+	color: white;
+	font-size: 16px;
+	padding: 15px 15px 10px;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	font-family: 'light';
+	}
+
+		  .priem_plitki_one:hover 
+		  {-webkit-transform: scale(10);
+  			transform: scale(1.05);
+  		transition: .2s linear;}
+	/*	.Плитки  */

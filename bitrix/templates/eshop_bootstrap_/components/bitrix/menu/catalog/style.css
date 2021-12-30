@@ -1,0 +1,5 @@
+
+.navbar-toggle {float: none !important;}
+.navbar-header button { color: white; text-transform: uppercase;}
+
+.dropdown.active a.dropdown-toggle, li.active a.root-item-selected { color: rgba(255,255,255, .5); text-decoration: none; }

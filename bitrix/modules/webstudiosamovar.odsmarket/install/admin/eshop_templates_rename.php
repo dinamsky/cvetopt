@@ -1,0 +1,1 @@
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/webstudiosamovar.odsmarket/admin/eshop_templates_rename.php");?>

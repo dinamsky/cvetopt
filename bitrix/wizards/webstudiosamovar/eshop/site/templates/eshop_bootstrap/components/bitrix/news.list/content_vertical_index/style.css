@@ -1,0 +1,63 @@
+
+	.content_index_vertical { }
+	.content_index_vertical .title{
+		background: #a8a8a8;
+		padding: 7px 12px;
+		text-transform: uppercase;
+		color: white;
+		font-family: 'fregatbold';
+		font-size: 14px;
+		margin-bottom: 20px;
+	}
+
+.content_index_vertical .title::after {
+    content: '';
+    position: absolute;
+    left: 25px;
+    bottom: 5px;
+    border: 8px solid transparent;
+    border-top: 8px solid #a8a8a8;
+}
+
+
+.content_index_vertical a { color:rgba(0,0,0, .8); }
+.content_index_vertical a strong{ color: black; }
+.content_index_vertical .statiya {/* height: 50px; overflow: hidden;*/ }
+.content_index_vertical .statiya strong {
+	display: block;
+	margin-bottom: 5px;
+	font-family: 'fregat';
+	font-weight: normal;
+	font-size: 16px;
+	/*line-height: 16pt;*/
+}
+
+.content_index_vertical img {margin: 5px 0 0; }
+
+
+	.content_index_vertical .index_more_content { text-align: right; font-size: 12px; white-space: nowrap;}
+	.content_index_vertical .index_more_content a{ color: black; }
+
+.content_index_vertical img, .footer .logo  img{
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: gray; /* IE 6-9 */
+/*Добавим вот такой вот код*/
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  -o-transition: all 1s;
+  transition: all 1s;
+/*конец кода с transition*/
+}
+
+.content_index_vertical a:hover img {
+  -webkit-filter: none;
+  -moz-filter: none;
+  -ms-filter: none;
+  -o-filter: none;
+  filter: none;
+  filter: none; /* IE 6-9 */
+}

@@ -1,0 +1,22 @@
+.bx-breadcrumb {
+	padding: 20px 15px 20px;
+	text-transform: uppercase;
+	/*color: #A0A0A0;*/
+	font-size: 11px;
+}
+
+.bx-breadcrumb .fa { margin-bottom: 3px; }
+
+.bx-breadcrumb i {
+	/*color: #A0AAB0;*/
+	vertical-align: middle;
+	margin-right: 5px;
+}
+.bx-breadcrumb .bx-breadcrumb-item {
+	float: left;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+.bx-breadcrumb .bx-breadcrumb-item a {border-bottom: none; text-decoration: none;}
+

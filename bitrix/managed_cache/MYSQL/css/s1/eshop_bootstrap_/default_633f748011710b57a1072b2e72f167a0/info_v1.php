@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/eshop_bootstrap_/components/bitrix/catalog.compare.list/sravnenie/style.css" => "16382977031482",]; ?>

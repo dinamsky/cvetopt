@@ -1,0 +1,48 @@
+
+
+
+
+.index_priemushestva { width: 95px; height: 65px; float: left; margin-right: 15px;}
+
+
+	/*   Приемущества	*/
+
+.priem ul{ 
+	/*background: rgba(255,5255,255, .60);*/
+	/*border-bottom: 1px solid rgba(0,0,0, .1);*/
+	list-style-type:none;
+	/*font-size: 12px;*/
+	/*text-transform: uppercase;	*/
+	padding-top: 25px;
+	margin: 0;
+
+
+}
+.priem li {
+	display:inline-block;
+	text-align: center;
+	width: 24%;
+	/*padding: 0 20px;*/
+	font-size: 13px;
+	/*border: 1px red solid;*/
+}
+
+/*.priem li:last-child { width: 210px; padding-right: 0; }*/
+
+
+.priem img{float: left; /*margin-right: 10px;*/ height: 62px; width: auto;}
+
+.priem ul>li>div {
+text-align: left !important;
+ /*border: 1px red solid;*/
+ height: 62px;
+ display: table-cell;
+ vertical-align: middle;
+ color: black;
+}
+
+.priem ul>li>div strong{ text-decoration: underline; font-size: 16px; display: block; margin-bottom: 5px;}
+.priem ul>li>div strong a{color: black !important; font-family: 'bold';}
+
+
+	/*   .Приемущества	*/

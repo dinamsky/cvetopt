@@ -1,0 +1,166 @@
+
+
+.bx-blue .btn.btn-default {background: #349933; border: none;}
+
+.bx-blue .btn.btn-default:hover, .bx-blue .btn.btn-default:active, .bx-blue .btn.btn-default:focus {background: #349933 }
+
+/******************************************/
+
+
+.bx_catalog_list_home .bx_stick_disc {background: #349933;}  
+.cart_b:hover, .cart_b:active, .cart_b:focus { background: #349933 }
+.cart_b a:hover, .cart_b a:active, .cart_b a:focus {color: white }
+
+/*.bx_catalog-compare-list_sravn:hover, .bx_catalog-compare-list_sravn:active, .bx_catalog-compare-list_sravn:focus {background: #349933}*/
+/*.bx_catalog-compare-list_sravn a:hover, .bx_catalog-compare-list_sravn a:active, .bx_catalog-compare-list_sravn a:focus {color: white}*/
+
+/*new!!*/
+
+
+.cart_b:hover, .cart_b:active, .cart_b:focus { background: #349933 }
+.cart_b a:hover, .cart_b a:active, .cart_b a:focus {color: white }
+
+/*.bx_catalog-compare-list_sravn:hover, .bx_catalog-compare-list_sravn:active, .bx_catalog-compare-list_sravn:focus {background: #349933}*/
+/*.bx_catalog-compare-list_sravn a:hover, .bx_catalog-compare-list_sravn a:active, .bx_catalog-compare-list_sravn a:focus {color: white}*/
+
+.priem ul>li>div strong a:hover{color: #349933 !important; text-decoration: none;}
+
+
+
+.tabs_prod .prod_all a {border-bottom: dotted 1px #349933;}
+
+.tabs_prod .prod_all a:hover,
+.tabs_prod .prod_all a:active,
+.tabs_prod .prod_all a:focus  {border-bottom: dotted 1px black; text-decoration: none;}
+
+.slider_top_skidka { color:  #349933; }
+
+.tovar_one_skidka { background: #349933; }
+
+.carousel-indicators li{ border-color: black !important;  }
+
+.carousel-indicators .active {
+    background-color: #349933;
+}
+
+.plitki_prod_index a:hover .text_one .name {color:  #349933;}
+
+.bx_item_detail .bx_bigimages .bx_stick_disc { background: #349933; border-radius: 50%;  }
+
+.bx_item_detail .more_links .btn-primary i{ color: #349933;}
+
+
+.bx-filter .bx-ui-slider-handle { background: #349933 }
+.bx-filter.bx-black .bx-ui-slider-pricebar-v { background: #349933; opacity: .4 }
+
+
+/*new!!*/
+
+a {color: #349933;}
+a:hover, a:active, a:focus {color: black;}
+
+
+/*		Основная кнопка (В корзину)		*/
+
+/* .btn-danger{ background: #349933; border: none;}
+ .btn-danger:hover,  .btn-danger:active,  .btn-danger:focus{ background: #2C822B }*/
+
+/*		.Основная кнопка (В корзину)		*/
+
+/*		Основное, горизонтальное меню		*/
+
+/*.main_menu_gorizontal {background: green;}*/
+/*.main_menu_gorizontal {background:rgba(0,0,0, .8);}*/
+.nav-justified>li:hover, .nav-justified>li:active, .nav-justified>li:focus {
+background: #777777;
+color: white !important;
+}
+
+.nav-justified>li.more_razdel:hover, .nav-justified>li.more_razdel:active, .nav-justified.more_razdel>li:focus { background: #349933;}
+li.dropdown.open {background: #777777;}
+
+		/*подменю "дополнительные разделы"*/
+		
+		li.dropdown.more_razdel:hover {background: #349933;}
+		li.dropdown.open.more_razdel {background: #349933; }
+		li.more_razdel .dropdown-menu {  background: #349933; }
+
+
+/*		.Основное, горизонтальное меню		*/
+
+
+/*				Кнопка в слайдере					*/
+	.index_slider .item .text>div a{ background: rgba(37,158,0, 0.7); }
+/*				Кнопка в слайдере					*/
+
+/*              Плитки              */
+.plitki_prod_index .price{
+    background: #4DC34B;
+    }
+/*              .Плитки              */
+
+.header_table .form_search .btn:hover {color: #349933;}
+
+.footer a:hover { color:  #349933; }
+
+
+.top_menu_end_enter a:hover{ color:#349933; text-decoration: none; }
+
+/*Каталог */
+
+.type_show a:hover, .type_show a:active, .type_show a:focus { color: #349933; }
+.sort_catalog .btn:hover, .sort_catalog .btn:active, .sort_catalog .btn:focus { color: #349933; }
+
+.pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus {
+    color: #349933 !important;
+}
+
+.bx_item_detail .btn-danger.one_click { background: #5E935C; }
+
+/*.Каталог */
+
+/*              приемущества по умолчанию           */
+
+.index_priemushestva.faq {
+    background: url(images/priem_faq.png) center center no-repeat;
+    width: 61px;
+
+}
+
+.index_priemushestva.dostavka {
+    background: url(images/priem_dostavka.png) center center no-repeat;
+    width: 84px;
+
+}
+
+.index_priemushestva.garantii {
+    background: url(images/priem_garantii.png) center center no-repeat;
+    width: 50px;
+
+}
+
+.index_priemushestva.raschet {
+    background: url(images/priem_raschet.png) center center no-repeat;
+    width: 67px;
+}
+/*              .приемущества по умолчанию          */
+
+.logo {
+    background: url(images/logo.png) no-repeat;
+    /*margin-right: 20px;*/
+}
+.logo>div {
+    min-width: 170px;
+    min-height: 50px;
+    display: inline-block;
+}
+
+.logo_footer {
+    background: url(images/logo.png) no-repeat;
+    -webkit-filter: grayscale(1) opacity(0.6);
+    background-size: contain;
+    width: 120px;
+    height: 50px;
+    margin-bottom: 10px;
+    /*margin-right: 20px;*/
+}

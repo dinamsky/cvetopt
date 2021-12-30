@@ -1,0 +1,101 @@
+
+	/*	Слайдер  */
+
+	.index_slider .item { height: 360px; }
+
+	.index_slider{
+		margin-bottom: 15px;
+	}        
+
+/*	.index_slider {
+		position:relative;
+		-webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 0px rgba(0, 0, 0, 0.1) inset;
+		-moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 0px rgba(0, 0, 0, 0.1) inset;
+		box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 0px rgba(0, 0, 0, 0.1) inset;
+		-webkit-box-shadow: 0 15px 15px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 50px rgba(0, 0, 0, 0.1) inset;
+		-moz-box-shadow: 0 15px 15px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 50px rgba(0, 0, 0, 0.1) inset;
+		box-shadow: 0 15px 15px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 50px rgba(0, 0, 0, 0.1) inset;
+	}        
+*/
+	.index_slider:before,
+	.index_slider:after {
+		content:"";
+		position:absolute;
+		z-index:-2;
+	}
+
+	.index_slider .item .text{
+		height: 360px;
+		display: table-cell;
+		vertical-align: middle;
+	}
+	.index_slider .item .text>div{
+		margin: 20px 40px 20px 55%;
+		padding: 10px 20px 35px;
+		/*background: rgba(0,0,0, .6);*/
+		color: white;
+		font-size: 18px;
+	}
+	.index_slider .item .text>div h2{ font-size: 30px; margin-bottom: 15px; font-family: 'bold';}
+	.index_slider .item .text>div a{
+		z-index: 100; 
+		display: inline-block;
+		/*margin-top: 15px;*/
+		color: black;
+		padding: 15px 25px;
+		background: #ffcd18 !important;
+		font-size: 14px;
+		/*text-transform: uppercase;*/
+		border-radius: 3px;
+		font-family: 'black';
+		font-size: 16px;
+
+	}
+.carousel-control.right, .carousel-control.left {
+     background-image: none !important; 
+}
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-prev, .carousel-control .icon-next {
+    margin-top: -20px;
+    font-size: 30px;
+    background: #353434;
+}
+.index_slider .carousel-control.right {
+    right: 15px !important ;
+    top: 43%;
+    background: none;
+    width: 25px;
+    height: 40px;
+    opacity: 1;
+    padding-top: 8px;
+    z-index: 200;
+    color: white;
+    text-shadow: none;
+    font-size: 30px;
+}
+.index_slider .carousel-control.left {
+    left: -5px !important;
+    top: 43%;
+    background: none;
+    width: 25px;
+    height: 40px;
+    opacity: 1;
+    padding-top: 8px;
+    z-index: 200;
+    color: white;
+    text-shadow: none;
+    font-size: 30px;
+}
+
+.index_slider .carousel-indicators li { margin-right: 5px; margin-top: -20px; border-color: white !important; }
+
+.index_slider .carousel-indicators .active {
+    margin-top: 0;
+    margin-right: 5px;
+    width: 13px;
+    height: 13px;
+    padding: 3px;
+    border: none;
+    background-color: white !important;
+}
+
+	/*	.Слайдер  */

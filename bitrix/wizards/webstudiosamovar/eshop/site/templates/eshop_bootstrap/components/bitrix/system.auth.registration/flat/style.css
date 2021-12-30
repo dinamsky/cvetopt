@@ -1,0 +1,4 @@
+label, .control-label, .help-block, .checkbox, .radio {
+    font-size: 16px !important;
+    font-weight: normal;
+}

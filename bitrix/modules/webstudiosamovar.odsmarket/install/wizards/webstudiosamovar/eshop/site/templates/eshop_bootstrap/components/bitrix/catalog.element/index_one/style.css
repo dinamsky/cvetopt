@@ -1,0 +1,7 @@
+.temp{}  /*Глюк с первой строкой*/
+
+.one_tovar_title { color: black; font-family: 'bold'; text-align: center; margin: 0 10px 10px; height: 40px; overflow: hidden; }
+.tovar_one_skidka { position: absolute; bottom: 35px; right: 15px; color: white; padding: 3px 10px 0; }
+.tovar_one_price { margin: 0 15px; }
+.tovar_one_price .old_price { font-size: 16px; text-decoration: line-through; color: #DF5D5D;}
+.tovar_one_price .osn_price { font-size: 26px; font-family: normal; line-height: 24pt;}

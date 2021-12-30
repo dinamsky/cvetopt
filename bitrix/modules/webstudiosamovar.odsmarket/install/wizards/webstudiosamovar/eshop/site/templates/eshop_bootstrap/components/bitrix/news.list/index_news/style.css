@@ -1,0 +1,5 @@
+
+		.index_news {margin-top: 10px; margin-bottom: 30px; line-height: 16pt; font-size: 14px;}
+		.index_news .date {/*font-size: 13px;*/ color: rgba(255,255,255, .6); display: block; margin-bottom: 10px;}
+		.index_news a {color: rgba(255,255,255, 1); /*font-size: 14px;*/ display: block; margin-bottom: 15px; }
+		.index_news a:hover {color: rgba(255,255,255, .7); }

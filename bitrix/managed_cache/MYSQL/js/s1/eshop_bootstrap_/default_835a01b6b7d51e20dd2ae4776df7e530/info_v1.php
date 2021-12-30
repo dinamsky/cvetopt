@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/eshop_bootstrap_/components/bitrix/catalog.compare.list/sravnenie/script.js" => "16382977033120",]; ?>

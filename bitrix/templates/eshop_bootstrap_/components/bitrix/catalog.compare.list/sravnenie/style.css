@@ -1,0 +1,50 @@
+.bx_catalog-compare-list_sravn{
+    background: white;
+    height: 75px;
+    /*color: white;*/
+    font-size: 13px;
+    display: block;
+    text-align: center;
+    /*padding-top: 10px;*/
+    line-height: 18pt;
+    border: 1px #ddd solid;
+    color: black;
+    margin-bottom: 10px;
+    padding-right: 5px;
+    font-family: 'bold';
+    position: relative;
+}
+
+                    .sravn_b:focus,
+                    .sravn_b:active,
+                    .sravn_b:hover { background: none !important;color: black !important;}
+
+                    .bx_catalog-compare-list_sravn:hover,
+                    .bx_catalog-compare-list_sravn:active,
+                    .bx_catalog-compare-list_sravn:focus
+                     {
+                    background: #ffcd18;    
+                    border-color:#ffcd18;
+                    color: black !important;
+                    }
+
+.bx_catalog-compare-list_sravn:hover .kol { background: white }
+
+.bx_catalog-compare-list_sravn i{ font-size: 36px; margin-top: 10px; display: block; }
+
+.bx_catalog-compare-list_sravn .kol {
+
+                font-size: 12px;
+                position: absolute;
+                top: 8px;
+                right: 9px;
+                margin-top: -3px;
+                background: #ffcd18;
+                padding: 3px 6px;
+                border-radius: 50%;
+                line-height: 10pt;
+}
+
+.bx_catalog-compare-list_sravn a{ color: black; }
+
+.bx_catalog_compare_count>a>div { text-decoration: underline; }

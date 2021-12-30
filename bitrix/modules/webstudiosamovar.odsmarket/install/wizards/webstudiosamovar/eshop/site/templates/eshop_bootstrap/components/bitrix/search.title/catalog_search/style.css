@@ -1,0 +1,17 @@
+
+div.title-search-result {
+	border:1px solid #c6c6c6;
+	display:none;
+	/*overflow:hidden;*/
+	z-index:205;
+	/*border: 1px red solid;*/
+	/*width: 450px !important;*/
+	background: white;
+	padding: 5px !important;
+}
+
+a .title-search-price { font-size: 16px; padding-top: 5px; color: black; }
+
+.title-search-result .search_prod {
+	padding: 5px 0; border-bottom: 1px #ddd solid; margin: 5px 0;
+}

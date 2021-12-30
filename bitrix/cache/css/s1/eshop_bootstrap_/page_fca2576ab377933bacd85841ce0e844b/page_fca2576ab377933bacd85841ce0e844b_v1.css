@@ -1,0 +1,64 @@
+
+
+/* Start:/bitrix/templates/eshop_bootstrap_/components/bitrix/system.pagenavigation/.default/style.css?16382977031171*/
+div.modern-page-navigation { 
+	padding: 22px 0;
+	font-size: 12px;
+}
+
+div.modern-page-navigation a, 
+span.modern-page-current, 
+span.modern-page-dots
+{
+	border-left-width: 1px;
+	/*border-left-style: solid;*/
+	text-decoration: none;
+	padding: 5px 8px;
+	color: #5B5B5B;
+}
+div.modern-page-navigation a.modern-page-previous { 
+	border-right-width: 1px; 
+	/*border-right-style: solid; */
+	border-left: none; }
+div.modern-page-navigation a.modern-page-first, 
+div.modern-page-navigation span.modern-page-first { 
+	border-left: none; 
+	padding-left: 0.5em; }
+
+span.modern-page-current { 
+	/*font-weight: bold;*/
+    background: #BEBEBE;
+    border-color: #BEBEBE;
+    padding: 3px 8px;
+    border-radius: 3px;
+    color: white;
+
+}
+
+.pagination {
+
+    margin-top: 15px !important;
+    margin-right: 5px !important;
+
+}
+
+.pagination>li>a {
+color: black !important;
+color: #5B5B5B !important;
+}
+
+
+.pagination>li.active>a {
+color: #9B9B9B !important;
+}
+
+
+.pagination>li>a:hover, .pagination>li>span:hover, .pagination>li>a:focus, .pagination>li>span:focus {
+    z-index: 3;
+    background: none !important;
+    border-color: transparent;
+}
+
+/*i.fa {font-size: 14px; margin-top; 3px}*/
+/* End */
+/* /bitrix/templates/eshop_bootstrap_/components/bitrix/system.pagenavigation/.default/style.css?16382977031171 */

@@ -1,0 +1,35 @@
+<?
+$MESS["CATALOG_QUANTITY"] = "РљРѕР»РёС‡РµСЃС‚РІРѕ";
+$MESS["CATALOG_QUANTITY_FROM_TO"] = "РћС‚ #FROM# РґРѕ #TO#";
+$MESS["CATALOG_QUANTITY_FROM"] = "РћС‚ #FROM#";
+$MESS["CATALOG_QUANTITY_TO"] = "Р”Рѕ #TO#";
+$MESS["CATALOG_PRICE_VAT"] = "СЃ РќР”РЎ";
+$MESS["CATALOG_PRICE_NOVAT"] = "Р±РµР· РќР”РЎ";
+$MESS["CATALOG_VAT"] = "РќР”РЎ";
+$MESS["CATALOG_NO_VAT"] = "РЅРµ РѕР±Р»Р°РіР°РµС‚СЃСЏ";
+$MESS["CATALOG_VAT_INCLUDED"] = "РќР”РЎ РІРєР»СЋС‡РµРЅ РІ С†РµРЅСѓ";
+$MESS["CATALOG_VAT_NOT_INCLUDED"] = "РќР”РЎ РЅРµ РІРєР»СЋС‡РµРЅ РІ С†РµРЅСѓ";
+$MESS["CT_BCE_QUANTITY"] = "РљРѕР»РёС‡РµСЃС‚РІРѕ";
+$MESS["CT_BCE_CATALOG_BUY"] = "РљСѓРїРёС‚СЊ";
+$MESS["CT_BCE_CATALOG_ADD"] = "Р’ РєРѕСЂР·РёРЅСѓ";
+$MESS["CT_BCE_CATALOG_COMPARE"] = "РЎСЂР°РІРЅРёС‚СЊ";
+$MESS["CT_BCE_CATALOG_NOT_AVAILABLE"] = "РЅРµС‚ РЅР° СЃРєР»Р°РґРµ";
+$MESS["OSTATOK"] = "РћСЃС‚Р°С‚РѕРє";
+$MESS["COMMENTARY"] = "РљРѕРјРјРµРЅС‚Р°СЂРёРё";
+$MESS["CT_BCE_CATALOG_ECONOMY_INFO"] = "(Р­РєРѕРЅРѕРјРёСЏ РІ С†РµРЅРµ - #ECONOMY#)";
+$MESS["FULL_DESCRIPTION"] = "РџРѕР»РЅРѕРµ РѕРїРёСЃР°РЅРёРµ";
+$MESS["CT_BCE_CATALOG_TITLE_ERROR"] = "РћС€РёР±РєР°";
+$MESS["CT_BCE_CATALOG_TITLE_BASKET_PROPS"] = "РЎРІРѕР№СЃС‚РІР° С‚РѕРІР°СЂР°, РґРѕР±Р°РІР»СЏРµРјС‹Рµ РІ РєРѕСЂР·РёРЅСѓ";
+$MESS["CT_BCE_CATALOG_BASKET_UNKNOWN_ERROR"] = "РќРµРёР·РІРµСЃС‚РЅР°СЏ РѕС€РёР±РєР° РїСЂРё РґРѕР±Р°РІР»РµРЅРёРё С‚РѕРІР°СЂР° РІ РєРѕСЂР·РёРЅСѓ";
+$MESS["CT_BCE_CATALOG_BTN_SEND_PROPS"] = "Р’С‹Р±СЂР°С‚СЊ";
+$MESS["CT_BCE_CATALOG_BTN_MESSAGE_CLOSE"] = "Р—Р°РєСЂС‹С‚СЊ";
+$MESS["CT_BCE_CATALOG_BTN_MESSAGE_CLOSE_POPUP"] = "РџСЂРѕРґРѕР»Р¶РёС‚СЊ РїРѕРєСѓРїРєРё";
+$MESS["CT_BCE_CATALOG_BTN_MESSAGE_BASKET_REDIRECT"] = "РџРµСЂРµР№С‚Рё РІ РєРѕСЂР·РёРЅСѓ";
+$MESS["CT_BCE_CATALOG_ADD_TO_BASKET_OK"] = "РўРѕРІР°СЂ РґРѕР±Р°РІР»РµРЅ РІ РєРѕСЂР·РёРЅСѓ";
+$MESS["CT_BCE_CATALOG_MESS_BASIS_PRICE"] = "Р¦РµРЅР° #PRICE# Р·Р° 1 #MEASURE#";
+$MESS["CT_BCE_CATALOG_MESS_COMPARE_OK"] = "РўРѕРІР°СЂ РґРѕР±Р°РІР»РµРЅ РІ СЃРїРёСЃРѕРє СЃСЂР°РІРЅРµРЅРёСЏ";
+$MESS["CT_BCE_CATALOG_MESS_COMPARE_TITLE"] = "РЎСЂР°РІРЅРµРЅРёРµ С‚РѕРІР°СЂРѕРІ";
+$MESS["CT_BCE_CATALOG_MESS_COMPARE_UNKNOWN_ERROR"] = "РџСЂРё РґРѕР±Р°РІР»РµРЅРёРё С‚РѕРІР°СЂР° РІ СЃРїРёСЃРѕРє СЃСЂР°РІРЅРµРЅРёСЏ РїСЂРѕРёР·РѕС€Р»Р° РѕС€РёР±РєР°";
+$MESS["CT_BCE_CATALOG_BTN_MESSAGE_COMPARE_REDIRECT"] = "РџРµСЂРµР№С‚Рё РІ СЃРїРёСЃРѕРє СЃСЂР°РІРЅРµРЅРёСЏ";
+$MESS["CT_BCE_CATALOG_PRODUCT_GIFT_LABEL"] = "РџРѕРґР°СЂРѕРє";
+?>
